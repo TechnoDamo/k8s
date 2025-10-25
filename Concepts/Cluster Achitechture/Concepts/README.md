@@ -1,0 +1,1 @@
+![cluster-components](./img/cluster-components.png)
